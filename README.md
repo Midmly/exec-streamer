@@ -11,7 +11,7 @@ main.go:
 package main
 
 import (
-    execstreamer "https://github.com/Midmly/exec-streamer"
+    execstreamer "github.com/Midmly/exec-streamer"
     "log"
     "os"
 )
